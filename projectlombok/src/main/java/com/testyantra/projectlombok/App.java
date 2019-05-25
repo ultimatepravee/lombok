@@ -9,7 +9,7 @@ import com.testyantra.projectlombok.pojo.EmployeeBean3;
 import lombok.extern.java.Log;
 
 /**
- * Hello world!
+ * This is Program to test the Lombok Annotations
  *
  */
 //@Log4j2
